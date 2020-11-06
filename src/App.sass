@@ -1,0 +1,60 @@
+body
+    color: #fff
+    font-family: Roboto
+    margin: 0
+    background: linear-gradient(-45deg, #654ea3, #eaafc8, #ad5389, #3c1053)
+    background-size: 400% 400%
+    animation: gradientBG 15s ease infinite
+
+    a
+        text-decoration: none
+
+
+.main-container
+    position: relative
+    min-height: 100vh
+    padding-top: 32px
+
+    .search-field
+        width: 100%
+        margin: 0
+        color: #fff
+        height: 56px
+        input
+            color: #fff
+
+    .search-button
+        background: #fff
+        height: 56px
+        width: 100%
+
+    .loading
+        position: absolute
+        top: 45%
+        left: calc(50% - 20px)
+        color: #fff
+
+    .ships-list
+        padding: 30px 0 0
+        text-align: center
+
+        .chips
+            margin: 4px
+
+    .card-media
+        min-height: 250px
+
+    .pagination
+        padding: 30px 0 0
+        text-align: center
+
+        button
+            margin: 0 20px
+
+@keyframes gradientBG
+    0%
+        background-position: 0% 50%
+    50%
+        background-position: 100% 50%
+    100%
+        background-position: 0% 50%
