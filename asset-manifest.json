@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/swapi-app/static/css/main.b2549d25.chunk.css",
+    "main.js": "/swapi-app/static/js/main.b4dfb612.chunk.js",
+    "main.js.map": "/swapi-app/static/js/main.b4dfb612.chunk.js.map",
+    "runtime-main.js": "/swapi-app/static/js/runtime-main.92052cbb.js",
+    "runtime-main.js.map": "/swapi-app/static/js/runtime-main.92052cbb.js.map",
+    "static/js/2.12d6ed56.chunk.js": "/swapi-app/static/js/2.12d6ed56.chunk.js",
+    "static/js/2.12d6ed56.chunk.js.map": "/swapi-app/static/js/2.12d6ed56.chunk.js.map",
+    "index.html": "/swapi-app/index.html",
+    "precache-manifest.9d7e5cdf7807076d70dcc9dc092bd7c7.js": "/swapi-app/precache-manifest.9d7e5cdf7807076d70dcc9dc092bd7c7.js",
+    "service-worker.js": "/swapi-app/service-worker.js",
+    "static/css/main.b2549d25.chunk.css.map": "/swapi-app/static/css/main.b2549d25.chunk.css.map",
+    "static/media/space.jpg": "/swapi-app/static/media/space.f6acb1cb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92052cbb.js",
+    "static/js/2.12d6ed56.chunk.js",
+    "static/css/main.b2549d25.chunk.css",
+    "static/js/main.b4dfb612.chunk.js"
+  ]
+}
